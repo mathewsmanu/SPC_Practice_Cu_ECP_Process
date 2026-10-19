@@ -1,0 +1,11 @@
+SPC_Practice_Cu_ECP_Process/
+├── README.md
+├── data/
+│   └── cu_ecp_lots.csv
+├── hand-calculations/
+│   └── (photos of handwritten work)
+├── jasp/
+│   ├── ( .jasp file)
+│   └── (screenshots of the charts and capability output)
+└── docs/
+    └── spc-constants-reference.md
