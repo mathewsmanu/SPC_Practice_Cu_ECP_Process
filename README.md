@@ -33,3 +33,23 @@ INFERENCE
 LEARNING OUTCOME
 
 I have learned the concepts of statistical process contorl, and performed hand calculations to derive the results for the process setup defined in this project. Also, i have used JASP to visualise the results using control charts.
+
+spc_practice_cu_ecp_process/
+├── README.md
+├── data/
+│   └── cu_ecp_lots.csv
+├── hand-calculations/
+│   ├── part-a-descriptive-stats.jpg
+│   └── part-b-capability.jpg
+├── jasp/
+│   ├── cu_ecp_lots.jasp
+│   └── jasp-output.png
+├── python/
+│   ├── spc_analysis.py
+│   └── requirements.txt
+├── sql/
+│   └── spc_queries.sql
+├── docs/
+│   └── spc-constants-reference.md
+├── .gitignore
+└── LICENSE
