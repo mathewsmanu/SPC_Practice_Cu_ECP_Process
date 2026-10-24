@@ -32,6 +32,6 @@ INFERENCE
 
 LEARNING OUTCOME
 
-I have learned the concepts of statistical process contorl, and performed hand calculations to derive the results for the process setup defined in this project. Also, i have used JASP to visualise the results using control charts.
+I have learned the concepts of statistical process contorl, and performed hand calculations to derive the results for the process setup defined in this project. Also, i have used JASP to visualise the results using control charts. Both, hand calculations and SPC using JASP has given the same results. This has enhanced the conceptual clarity, and improved my SPC skills.
 
 
